@@ -24,3 +24,26 @@ Understanding how Python is used in Data Analysis and AI.
 - Python is not just a programming language, it is a **tool for thinking with data**
 - An analyst’s job is more about **understanding data** than writing complex code
 
+
+
+
+# Day 2–3 – January 21  
+
+## 📌 Focus for the Day
+Practicing user input handling, type conversion, and decision-making logic in Python.
+
+## 📚 Concepts Practiced
+- Taking user input and understanding data types
+- Type conversion using int, float, and str
+- Conditional logic using if–elif–else
+
+## 🛠️ Practice Done
+- Implemented programs combining input, type conversion, and conditions
+- Focused on clean code, logical flow, and readability
+- Refactored code to reduce redundancy and improve clarity
+
+## 🧠 Key Takeaways
+- Proper type handling is critical for accurate logic
+- Conditional statements drive real-world decision making
+- Clean and readable code improves problem-solving efficiency
+
