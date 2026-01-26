@@ -33,8 +33,8 @@ Understanding how Python is used in Data Analysis and AI.
 Practicing user input handling, type conversion, and decision-making logic in Python.
 
 ## 📚 Concepts 
-- Taking user input and understanding data types
-- Type conversion using int, float, and str
+- input putput
+- Type conversion 
 - Conditional logic using if–elif–else
 
 ## 🛠️ Practice 
@@ -77,9 +77,9 @@ Practicing loops and control flow in Python.
 Working with core data structures and improving code reusability.
 
 ## 📚 Concepts Practiced
-- Dictionaries (key–value data handling)
-- Sets (unique values and operations)
-- Functions for modular and reusable code
+- Dictionaries
+- Sets 
+- Functions 
 
 ## 🛠️ Practice 
 - Used dictionaries to manage structured data
