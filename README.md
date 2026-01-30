@@ -90,3 +90,14 @@ Working with core data structures and improving code reusability.
 - Dictionaries model real-world data effectively
 - Sets handle uniqueness efficiently
 - Functions keep code clean, organized, and scalable
+
+
+
+# Day 8: Python Basics Practice
+
+1. Variables, Data Types, Input/Output
+2. Conditional Statements
+3. Loops and Number/Star Patterns
+4. Functions
+
+
