@@ -93,7 +93,7 @@ Working with core data structures and improving code reusability.
 
 
 
-# Day 8: Python Basics Practice – January 31  
+# Day 8 – January 31  
 
 1. Variables, Data Types, Input/Output
 2. Conditional Statements
@@ -101,7 +101,7 @@ Working with core data structures and improving code reusability.
 4. Functions
 
 
-# Day 9: NumPy & Pandas Basics – February2  
+# Day 9 – February2  
 
 ## Topics Covered
 - NumPy arrays, shapes & dimensions
