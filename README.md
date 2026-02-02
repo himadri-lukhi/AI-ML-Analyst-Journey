@@ -84,7 +84,7 @@ Working with core data structures and improving code reusability.
 ## 🛠️ Practice 
 - Used dictionaries to manage structured data
 - Applied sets for uniqueness and comparison
-- Wrote functions to reduce repetition and improve clarity
+- Wrote functions to reduce repetition and improve clarity4.
 
 ## 🧠 Key Takeaways
 - Dictionaries model real-world data effectively
@@ -93,11 +93,21 @@ Working with core data structures and improving code reusability.
 
 
 
-# Day 8: Python Basics Practice
+# Day 8: Python Basics Practice – January 31  
 
 1. Variables, Data Types, Input/Output
 2. Conditional Statements
 3. Loops and Number/Star Patterns
 4. Functions
+
+
+# Day 9: NumPy & Pandas Basics – February2  
+
+## Topics Covered
+- NumPy arrays, shapes & dimensions
+- Indexing, slicing & broadcasting
+- Basic statistics (mean, median, std)
+- Pandas Series & DataFrame
+- Data inspection (head, shape, columns, describe)
 
 
